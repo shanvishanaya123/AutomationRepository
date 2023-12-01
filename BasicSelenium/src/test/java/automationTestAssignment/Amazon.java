@@ -34,7 +34,7 @@ public class Amazon {
 		String parentHandle = driver.getWindowHandle();
 		
 		
-		// searching for iphone15 black color 
+		// searching for iphone 
 		driver.findElement(By.xpath("(//span[@class='a-size-medium a-color-base a-text-normal'])[1]")).click();
 		
 		
